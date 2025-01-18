@@ -43,7 +43,7 @@ Welcome to the **Minecraft Champs Discord Bot** repository! This bot is a custom
 
 4. **Run the Bot**
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ## Commands
